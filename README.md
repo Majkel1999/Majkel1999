@@ -23,5 +23,3 @@ My current tech stack:
 - Java 
 - C++ 
 - C
-
-<hr>
