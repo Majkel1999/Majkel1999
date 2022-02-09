@@ -18,7 +18,7 @@ My current tech stack:
   - Blazor
 - Dart
   - Flutter
-  - [Czas to Zjeść](https://czastozjesc.pl)
+    - [Czas to Zjeść](https://czastozjesc.pl)
 - JavaScript 
 - TypeScript 
 - Java 
