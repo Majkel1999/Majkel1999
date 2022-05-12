@@ -22,5 +22,4 @@ My current tech stack:
 - JavaScript 
 - TypeScript 
 - Java 
-- C++ 
-- C
+
