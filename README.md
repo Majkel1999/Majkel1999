@@ -13,6 +13,7 @@ My current tech stack:
   - WPF
   - ASP.NET
   - Blazor
+- Python
 - Dart
   - Flutter
     - [Czas to Zjeść](https://czastozjesc.pl)
