@@ -14,6 +14,9 @@ My current tech stack:
   - ASP.NET
   - Blazor
 - Python
+  - FastAPI 
+    - [HILBert](https://github.com/Majkel1999/Hilbert)
+    - [HILBert Docs](https://majkel1999.github.io/Hilbert/#/)
 - Dart
   - Flutter
     - [Czas to Zjeść](https://czastozjesc.pl)
